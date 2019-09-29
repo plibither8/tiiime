@@ -2,6 +2,8 @@
 
 > Your personal, crowd-sourced timetable
 
+**Pitch presentation**: [this](https://docs.google.com/presentation/d/1kjLY32RiECWyQel7cUwDUBHys8dNGgazu-v_lOmZjlQ/present?slide=id.p) or [this](pitch.pdf)
+
 Built for **Byld Hackathon v16**.
 
 ## Instructions
