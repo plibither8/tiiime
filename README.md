@@ -21,3 +21,7 @@ The app should now be available on port 3000 of your localhost.
 * Mihir Chaturvedi
 * Sudarshan Buxy
 * Pritish Gulati
+
+## License
+
+[MIT](LICENSE)
