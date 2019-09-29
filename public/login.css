@@ -1,0 +1,62 @@
+.flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+body, html {
+	min-height: 100%
+}
+
+section {
+	height: 100vh;
+	flex-direction: column;
+	background: #dbeaff;
+}
+
+section h1 {
+	display: flex;
+	font-size: 10vh;
+	color: #666;
+}
+
+section h1 img {
+	height: 125px;
+	margin-right: 30px;
+}
+
+section h1 span {
+	color: #475786
+}
+
+section p {
+	color: #364163;
+	font-size: 3vh;
+}
+
+section a {
+	display: flex;
+	margin-top: 80px;
+	align-items: center;
+	font-size: 20px;
+	padding: 10px;
+	border-radius: 5px;
+	background: #475786;
+	color: #dbeaff;
+}
+
+section a:hover {
+	color: #dbeaff
+}
+
+section a img {
+	height: 30px;
+	margin-right: 20px;
+}
+
+p.error {
+	font-size: 20px;
+	color: #bd2f2f;
+	margin-top: 20px;
+}

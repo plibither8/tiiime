@@ -1,0 +1,1964 @@
+{
+	"B": {
+		"1": [
+			[
+				{
+					"name": "PIS",
+					"start_time": 9,
+					"end_time": 12
+				},
+				{
+					"name": "IP TUT",
+					"start_time": 2,
+					"end_time": 3,
+					"venue":"C12"
+				},
+				{
+					"name": "Lab PIS",
+					"start_time": 4,
+					"end_time": 5,
+					"venue": "DI Lab"
+				}
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"IP",
+					"start_time": 11,
+					"end_time": 12.50
+				},
+				{
+					"name":"Comm.",
+					"start_time": 13.50,
+					"end_time": 16.50
+				}
+			],
+			[
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name": "Math 1",
+					"start_time": 11,
+					"end_time": 12
+				},
+				{
+					"name": "DC LAB",
+					"start_time": 14,
+					"end_time": 16
+				}
+			],
+			[
+				{
+					"name":"Math 1 TUT",
+					"start_time": 9,
+					"end_time": 10.50
+					
+				},
+				{
+					"name": "IP",
+					"start_time": 11,
+					"end_time": 12.50
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+			],
+			
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+					
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time":14,
+					"end_time":17.50
+				}
+			]
+		],
+		"2": [
+			[
+				{
+					"name": "PIS",
+					"start_time": 9,
+					"end_time": 12
+				},
+				{
+					"name": "IP TUT",
+					"start_time": 2,
+					"end_time": 3,
+					"venue":"C12"
+				},
+				{
+					"name": "Lab PIS",
+					"start_time": 4,
+					"end_time": 5,
+					"venue": "DI Lab"
+				}
+				
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"IP",
+					"start_time": 11,
+					"end_time": 12.50
+				},
+				{
+					"name":"Comm.",
+					"start_time": 13.50,
+					"end_time": 16.50
+				}
+			],
+			[
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name": "Math 1",
+					"start_time": 11,
+					"end_time": 12
+				},
+				{
+					"name": "DC LAB",
+					"start_time": 14,
+					"end_time": 16
+				}
+			],
+			[
+				{
+					"name":"Math 1 TUT",
+					"start_time": 9,
+					"end_time": 10.50
+					
+				},
+				{
+					"name": "IP",
+					"start_time": 11,
+					"end_time": 12.50
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+					
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time":14,
+					"end_time":17.50
+				}
+			]
+		],
+		"3": [
+			[
+				{
+					
+					"name": "PIS",
+					"start_time": 9,
+					"end_time": 12
+				},
+				{
+					"name": "IP TUT",
+					"start_time": 2,
+					"end_time": 3,
+					"venue":"C12"
+				},
+				{
+					"name": "Lab PIS",
+					"start_time": 4,
+					"end_time": 5,
+					"venue": "DI Lab"
+				}
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"IP",
+					"start_time": 11,
+					"end_time": 12.50
+				},
+				{
+					"name":"Comm.",
+					"start_time": 13.50,
+					"end_time": 16.50
+				}
+			],
+			[
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name": "Math 1",
+					"start_time": 11,
+					"end_time": 12
+				},
+				{
+					"name": "DC LAB",
+					"start_time": 14,
+					"end_time": 16
+				}
+			],
+			[
+				{
+					"name":"Math 1 TUT",
+					"start_time": 9,
+					"end_time": 10.50
+					
+				},
+				{
+					"name": "IP",
+					"start_time": 11,
+					"end_time": 12.50
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+					
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time":14,
+					"end_time":17.50
+				}
+			]
+		],
+		"4": [
+			[
+				{
+					
+					"name": "PIS",
+					"start_time": 9,
+					"end_time": 12
+				},
+				{
+					"name": "IP TUT",
+					"start_time": 2,
+					"end_time": 3,
+					"venue":"C12"
+				},
+				{
+					"name": "Lab PIS",
+					"start_time": 4,
+					"end_time": 5,
+					"venue": "DI Lab"
+				}
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"IP",
+					"start_time": 11,
+					"end_time": 12.50
+				},
+				{
+					"name":"Comm.",
+					"start_time": 13.50,
+					"end_time": 16.50
+				}
+			],
+			[
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name": "Math 1",
+					"start_time": 11,
+					"end_time": 12
+				},
+				{
+					"name": "DC LAB",
+					"start_time": 14,
+					"end_time": 16
+				}
+			],
+			[
+				{
+					"name":"Math 1 TUT",
+					"start_time": 9,
+					"end_time": 10.50
+					
+				},
+				{
+					"name": "IP",
+					"start_time": 11,
+					"end_time": 12.50
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+					
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time":14,
+					"end_time":17.50
+				}
+			]
+		],
+		"5": [
+			[
+				{
+					
+					"name": "PIS",
+					"start_time": 9,
+					"end_time": 12
+				},
+				{
+					"name": "IP TUT",
+					"start_time": 2,
+					"end_time": 3,
+					"venue":"C12"
+				},
+				{
+					"name": "Lab PIS",
+					"start_time": 4,
+					"end_time": 5,
+					"venue": "DI Lab"
+				}
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"IP",
+					"start_time": 11,
+					"end_time": 12.50
+				},
+				{
+					"name":"Comm.",
+					"start_time": 13.50,
+					"end_time": 16.50
+				}
+			],
+			[
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name": "Math 1",
+					"start_time": 11,
+					"end_time": 12
+				},
+				{
+					"name": "DC LAB",
+					"start_time": 14,
+					"end_time": 16
+				}
+			],
+			[
+				{
+					"name":"Math 1 TUT",
+					"start_time": 9,
+					"end_time": 10.50
+					
+				},
+				{
+					"name": "IP",
+					"start_time": 11,
+					"end_time": 12.50
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+					
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time":14,
+					"end_time":17.50
+				}
+			]
+		],
+		"6": [
+			[
+				{
+					
+					"name": "PIS",
+					"start_time": 9,
+					"end_time": 12
+				},
+				{
+					"name": "DC LAB",
+					"start_time": 14,
+					"end_time": 16
+				}
+				
+				
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"IP",
+					"start_time": 11,
+					"end_time": 12.50
+				},
+				{
+					"name": "IP TUT",
+					"start_time": 14.50,
+					"end_time":15.50
+				},
+				{
+					"name":"PIS LAB",
+					"start_time": 16,
+					"end_time": 18
+				}
+			],
+			[
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name": "Math 1",
+					"start_time": 11,
+					"end_time": 12
+				},
+				{
+					"name":"Comm.",
+					"start_time":13.50,
+					"end_time":16.50
+				}
+				
+			],
+			[
+				{
+					"name":"Math 1 TUT",
+					"start_time": 9,
+					"end_time": 10.50
+					
+				},
+				{
+					"name": "IP",
+					"start_time": 11,
+					"end_time": 12.50
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+			],
+			
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+					
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time":14,
+					"end_time":17.50
+				}
+			]
+		],
+		"7": [
+			[
+				{
+					
+					"name": "PIS",
+					"start_time": 9,
+					"end_time": 12
+				},
+				{
+					"name": "DC LAB",
+					"start_time": 14,
+					"end_time": 16
+				}
+				
+				
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"IP",
+					"start_time": 11,
+					"end_time": 12.50
+				},
+				{
+					"name": "IP TUT",
+					"start_time": 14.50,
+					"end_time":15.50
+				},
+				{
+					"name":"PIS LAB",
+					"start_time": 16,
+					"end_time": 18
+				}
+			],
+			[
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name": "Math 1",
+					"start_time": 11,
+					"end_time": 12
+				},
+				{
+					"name":"Comm.",
+					"start_time":13.50,
+					"end_time":16.50
+				}
+				
+			],
+			[
+				{
+					"name":"Math 1 TUT",
+					"start_time": 9,
+					"end_time": 10.50
+					
+				},
+				{
+					"name": "IP",
+					"start_time": 11,
+					"end_time": 12.50
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+			],
+			
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+					
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time":14,
+					"end_time":17.50
+				}
+			]
+		],
+		"8": [
+			[
+				{
+					
+					"name": "PIS",
+					"start_time": 9,
+					"end_time": 12
+				},
+				{
+					"name": "DC LAB",
+					"start_time": 14,
+					"end_time": 16
+				}
+				
+				
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"IP",
+					"start_time": 11,
+					"end_time": 12.50
+				},
+				{
+					"name": "IP TUT",
+					"start_time": 14.50,
+					"end_time":15.50
+				},
+				{
+					"name":"PIS LAB",
+					"start_time": 16,
+					"end_time": 18
+				}
+			],
+			[
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name": "Math 1",
+					"start_time": 11,
+					"end_time": 12
+				},
+				{
+					"name":"Comm.",
+					"start_time":13.50,
+					"end_time":16.50
+				}
+				
+			],
+			[
+				{
+					"name":"Math 1 TUT",
+					"start_time": 9,
+					"end_time": 10.50
+					
+				},
+				{
+					"name": "IP",
+					"start_time": 11,
+					"end_time": 12.50
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+			],
+			
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+					
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time":14,
+					"end_time":17.50
+				}
+			]
+		],
+		"9": [
+			[
+				{
+					
+					"name": "PIS",
+					"start_time": 9,
+					"end_time": 12
+				},
+				{
+					"name": "DC LAB",
+					"start_time": 14,
+					"end_time": 16
+				}
+				
+				
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"IP",
+					"start_time": 11,
+					"end_time": 12.50
+				},
+				{
+					"name": "IP TUT",
+					"start_time": 14.50,
+					"end_time":15.50
+				},
+				{
+					"name":"PIS LAB",
+					"start_time": 16,
+					"end_time": 18
+				}
+			],
+			[
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name": "Math 1",
+					"start_time": 11,
+					"end_time": 12
+				},
+				{
+					"name":"Comm.",
+					"start_time":13.50,
+					"end_time":16.50
+				}
+				
+			],
+			[
+				{
+					"name":"Math 1 TUT",
+					"start_time": 9,
+					"end_time": 10.50
+					
+				},
+				{
+					"name": "IP",
+					"start_time": 11,
+					"end_time": 12.50
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					"end_time": 10
+					
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time": 11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time":14,
+					"end_time":17.50
+				}
+			]
+		]
+	},
+	"A": {
+		"1": [
+			[
+				{
+					"name":"PIS",
+					"start_time": 9,
+					"end_time":12
+					
+					
+				},
+				{
+					"name": "Comm.",
+					"start_time": 12.50,
+					"end_time":15.50
+				}
+			],
+			[
+				{
+					"name":"IP",
+					"start_time": 8.50,
+					"end_time":10
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time":11
+					
+				},
+				{
+					"name":"Math 1",
+					"start_time": 11,
+					
+					"end_time": 12
+				},
+				{
+					"name":"IP TUT",
+					"start_time":13.50,
+					"end_time":14.50
+				}
+				
+				
+			],
+			[
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					
+					"end_time": 10
+					
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time":11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time":12
+					
+				},
+				{
+					"name":"IP LAB",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+				
+				
+			],
+			[
+				{
+					"name": "IP",
+					"start_time": 8.50,
+					"end_time": 10
+				},
+				{
+					"name":"Math 1 TUT",
+					"start_time":10.50,
+					"end_time": 12
+				},
+				{
+					"name":"DC LAB",
+					"start_time":14,
+					"end_time":16
+					
+					
+				},
+				{
+					"name":"PIS Lab",
+					"start_time":16,
+					"end_time":18
+				}
+			],
+			[
+				{
+					"name":"DC",
+					"start_time":10,
+					"end_time": 11
+				},
+				{
+					"name":"Math 1",
+					"start_time":11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time": 14,
+					"end_time":17
+				}
+			]
+		],
+		"2": [
+			[
+				{
+					"name":"PIS",
+					"start_time": 9,
+					"end_time":12
+					
+					
+				},
+				{
+					"name":"Comm.",
+					"start_time": 13.50,
+					"end_time": 16.50
+				}
+			],
+			[
+				{
+					"name":"IP",
+					"start_time": 8.50,
+					"end_time":10
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time":11
+					
+				},
+				{
+					"name":"Math 1",
+					"start_time": 11,
+					
+					"end_time": 12
+				},
+				{
+					"name":"IP TUT",
+					"start_time":13.50,
+					"end_time":14.50
+				}
+			],
+			[
+				
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					
+					"end_time": 10
+					
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time":11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time":12
+					
+				},
+				{
+					"name":"IP LAB",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+				
+			],
+			[
+				{
+					"name": "IP",
+					"start_time": 8.50,
+					"end_time": 10
+				},
+				{
+					"name":"Math 1 TUT",
+					"start_time":10.50,
+					"end_time": 12
+				},
+				{
+					"name":"DC LAB",
+					"start_time":14,
+					"end_time":16
+					
+					
+				},
+				{
+					"name":"PIS Lab",
+					"start_time":16,
+					"end_time":18
+				}
+				
+				
+			],
+			[
+				{
+					"name":"DC",
+					"start_time":10,
+					"end_time": 11
+				},
+				{
+					"name":"Math 1",
+					"start_time":11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time": 14,
+					"end_time":17
+				}
+			]
+		],
+		"3": [
+			[
+				{
+					"name":"PIS",
+					"start_time": 9,
+					"end_time":12
+					
+					
+				},
+				{
+					"name":"Comm.",
+					"start_time": 13.50,
+					"end_time": 16.50
+				}
+			],
+			[
+				{
+					"name":"IP",
+					"start_time": 8.50,
+					"end_time":10
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time":11
+					
+				},
+				{
+					"name":"Math 1",
+					"start_time": 11,
+					
+					"end_time": 12
+				},
+				{
+					"name":"IP TUT",
+					"start_time":13.50,
+					"end_time":14.50
+				}
+			],
+			[
+				
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					
+					"end_time": 10
+					
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time":11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time":12
+					
+				},
+				{
+					"name":"IP LAB",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+				
+			],
+			[
+				{
+					"name": "IP",
+					"start_time": 8.50,
+					"end_time": 10
+				},
+				{
+					"name":"Math 1 TUT",
+					"start_time":10.50,
+					"end_time": 12
+				},
+				{
+					"name":"DC LAB",
+					"start_time":14,
+					"end_time":16
+					
+					
+				},
+				{
+					"name":"PIS Lab",
+					"start_time":16,
+					"end_time":18
+				}
+				
+				
+			],
+			[
+				{
+					"name":"DC",
+					"start_time":10,
+					"end_time": 11
+				},
+				{
+					"name":"Math 1",
+					"start_time":11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time": 14,
+					"end_time":17
+				}
+			]
+		],
+		"4": [
+			[
+				{
+					"name":"PIS",
+					"start_time": 9,
+					"end_time":12
+					
+					
+				},
+				{
+					"name": "Comm.",
+					"start_time": 15.50,
+					"end_time": 18.50
+				}
+			],
+			[
+				{
+					"name":"IP",
+					"start_time": 8.50,
+					"end_time":10
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time":11
+					
+				},
+				{
+					"name":"Math 1",
+					"start_time": 11,
+					
+					"end_time": 12
+				},
+				{
+					"name":"IP TUT",
+					"start_time":13.50,
+					"end_time":14.50
+				}
+			],
+			[
+				
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					
+					"end_time": 10
+					
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time":11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time":12
+					
+				},
+				{
+					"name":"IP LAB",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+				
+			],
+			[
+				{
+					"name": "IP",
+					"start_time": 8.50,
+					"end_time": 10
+				},
+				{
+					"name":"Math 1 TUT",
+					"start_time":10.50,
+					"end_time": 12
+				},
+				{
+					"name":"DC LAB",
+					"start_time":14,
+					"end_time":16
+					
+					
+				},
+				{
+					"name":"PIS Lab",
+					"start_time":16,
+					"end_time":18
+				}
+				
+				
+			],
+			[
+				{
+					"name":"DC",
+					"start_time":10,
+					"end_time": 11
+				},
+				{
+					"name":"Math 1",
+					"start_time":11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time": 14,
+					"end_time":17
+				}
+			]
+		],
+		"5": [
+			[
+				{
+					"name":"PIS",
+					"start_time": 9,
+					"end_time":12
+					
+					
+				},
+				{
+					"name":"Comm.",
+					"start_time": 13.50,
+					"end_time": 16.50
+				}
+			],
+			[
+				{
+					"name":"IP",
+					"start_time": 8.50,
+					"end_time":10
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time":11
+					
+				},
+				{
+					"name":"Math 1",
+					"start_time": 11,
+					
+					"end_time": 12
+				},
+				{
+					"name":"IP TUT",
+					"start_time":13.50,
+					"end_time":14.50
+				}
+			],
+			[
+				
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					
+					"end_time": 10
+					
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time":11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time":12
+					
+				},
+				{
+					"name":"IP LAB",
+					"start_time": 13.50,
+					"end_time": 15.50
+				}
+				
+			],
+			[
+				{
+					"name": "IP",
+					"start_time": 8.50,
+					"end_time": 10
+				},
+				{
+					"name":"Math 1 TUT",
+					"start_time":10.50,
+					"end_time": 12
+				},
+				{
+					"name":"DC LAB",
+					"start_time":14,
+					"end_time":16
+					
+					
+				},
+				{
+					"name":"PIS Lab",
+					"start_time":16,
+					"end_time":18
+				}
+				
+				
+			],
+			[
+				{
+					"name":"DC",
+					"start_time":10,
+					"end_time": 11
+				},
+				{
+					"name":"Math 1",
+					"start_time":11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time": 14,
+					"end_time":17
+				}
+			]
+		],
+		"6": [
+			[
+				{
+					"name":"PIS",
+					"start_time": 9,
+					"end_time":12
+					
+					
+				},
+				{
+					"name":"IP TUT",
+					"start_time": 13.50,
+					"end_time": 14.50
+				}
+			],
+			[
+				
+				{
+					"name":"IP",
+					"start_time": 8.50,
+					"end_time":10
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time":11
+					
+				},
+				{
+					"name":"Math 1",
+					"start_time": 11,
+					
+					"end_time": 12
+				},
+				{
+					"name": "DC Lab",
+					"start_time": 14,
+					"end_time": 16
+				}
+			],
+			[
+				
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					
+					"end_time": 10
+					
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time":11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time":12
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time":13.50,
+					"end_time":15.50
+				},
+				{
+					"name": "PIS Lab",
+					"start_time": 15.50,
+					"end_time":17.50
+					
+				}
+			],
+			[
+				
+				{
+					"name": "IP",
+					"start_time": 8.50,
+					"end_time": 10
+				},
+				{
+					"name":"Math 1 TUT",
+					"start_time":10.50,
+					"end_time": 12
+				},
+				{
+					"name": "Comm.",
+					"start_time": 13.50,
+					"end_time":16.50
+				}
+			],
+			[
+				{
+					"name":"DC",
+					"start_time":10,
+					"end_time": 11
+				},
+				{
+					"name":"Math 1",
+					"start_time":11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time": 14,
+					"end_time":17
+				}
+			]
+		],
+		"7": [
+			[
+				
+				
+				{
+					"name":"PIS",
+					"start_time": 9,
+					"end_time":12
+					
+					
+				},
+				{
+					"name":"IP TUT",
+					"start_time": 13.50,
+					"end_time": 14.50
+				}
+			],
+			[
+				
+				{
+					"name":"IP",
+					"start_time": 8.50,
+					"end_time":10
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time":11
+					
+				},
+				{
+					"name":"Math 1",
+					"start_time": 11,
+					
+					"end_time": 12
+				},
+				{
+					"name": "DC Lab",
+					"start_time": 14,
+					"end_time": 16
+				}
+			],
+			[
+				
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					
+					"end_time": 10
+					
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time":11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time":12
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time":13.50,
+					"end_time":15.50
+				},
+				{
+					"name": "PIS Lab",
+					"start_time": 15.50,
+					"end_time":17.50
+					
+				}
+			],
+			[
+				
+				{
+					"name": "IP",
+					"start_time": 8.50,
+					"end_time": 10
+				},
+				{
+					"name":"Math 1 TUT",
+					"start_time":10.50,
+					"end_time": 12
+				},
+				{
+					"name": "Comm.",
+					"start_time": 13.50,
+					"end_time":16.50
+				}
+			],
+			[
+				{
+					"name":"DC",
+					"start_time":10,
+					"end_time": 11
+				},
+				{
+					"name":"Math 1",
+					"start_time":11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time": 14,
+					"end_time":17
+				}
+			]
+		],
+		"8": [
+			[
+				
+				
+				{
+					"name":"PIS",
+					"start_time": 9,
+					"end_time":12
+					
+					
+				},
+				{
+					"name":"IP TUT",
+					"start_time": 13.50,
+					"end_time": 14.50
+				}
+			],
+			[
+				
+				{
+					"name":"IP",
+					"start_time": 8.50,
+					"end_time":10
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time":11
+					
+				},
+				{
+					"name":"Math 1",
+					"start_time": 11,
+					
+					"end_time": 12
+				},
+				{
+					"name": "DC Lab",
+					"start_time": 14,
+					"end_time": 16
+				}
+			],
+			[
+				
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					
+					"end_time": 10
+					
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time":11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time":12
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time":13.50,
+					"end_time":15.50
+				},
+				{
+					"name": "PIS Lab",
+					"start_time": 15.50,
+					"end_time":17.50
+					
+				}
+			],
+			[
+				
+				{
+					"name": "IP",
+					"start_time": 8.50,
+					"end_time": 10
+				},
+				{
+					"name":"Math 1 TUT",
+					"start_time":10.50,
+					"end_time": 12
+				},
+				{
+					"name": "Comm.",
+					"start_time": 13.50,
+					"end_time":16.50
+				}
+			],
+			[
+				{
+					"name":"DC",
+					"start_time":10,
+					"end_time": 11
+				},
+				{
+					"name":"Math 1",
+					"start_time":11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time": 14,
+					"end_time":17
+				}
+			]
+		],
+		"9": [
+			[
+				
+				
+				{
+					"name":"PIS",
+					"start_time": 9,
+					"end_time":12
+					
+					
+				},
+				{
+					"name":"IP TUT",
+					"start_time": 13.50,
+					"end_time": 14.50
+				}
+			],
+			[
+				
+				{
+					"name":"IP",
+					"start_time": 8.50,
+					"end_time":10
+				},
+				{
+					"name":"DC",
+					"start_time": 10,
+					"end_time":11
+					
+				},
+				{
+					"name":"Math 1",
+					"start_time": 11,
+					
+					"end_time": 12
+				},
+				{
+					"name": "DC Lab",
+					"start_time": 14,
+					"end_time": 16
+				}
+			],
+			[
+				
+				{
+					"name": "Math 1",
+					"start_time": 9,
+					
+					"end_time": 10
+					
+				},
+				{
+					"name": "DC",
+					"start_time": 10,
+					"end_time":11
+				},
+				{
+					"name":"DC TUT",
+					"start_time": 11,
+					"end_time":12
+					
+				},
+				{
+					"name": "IP Lab",
+					"start_time":13.50,
+					"end_time":15.50
+				},
+				{
+					"name": "PIS Lab",
+					"start_time": 15.50,
+					"end_time":17.50
+					
+				}
+			],
+			[
+				
+				{
+					"name": "IP",
+					"start_time": 8.50,
+					"end_time": 10
+				},
+				{
+					"name":"Math 1 TUT",
+					"start_time":10.50,
+					"end_time": 12
+				},
+				{
+					"name": "Comm.",
+					"start_time": 13.50,
+					"end_time":16.50
+				}
+			],
+			[
+				{
+					"name":"DC",
+					"start_time":10,
+					"end_time": 11
+				},
+				{
+					"name":"Math 1",
+					"start_time":11,
+					"end_time": 12
+					
+					
+				},
+				{
+					"name":"QUIZ SLOT",
+					"start_time": 14,
+					"end_time":17
+				}
+			]
+		]
+	}
+}

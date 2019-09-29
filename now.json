@@ -1,0 +1,51 @@
+{
+	"name": "tiiime",
+	"version": 2,
+	"env": {
+		"CLIENT_ID": "@tiiime-client-id",
+		"CLIENT_SECRET": "@tiiime-client-secret",
+		"CONNECTION_URI": "@tiiime-connection-uri"
+	},
+	"github": {
+		"enabled": true,
+		"silent": true
+	},
+	"builds": [
+		{
+			"src": "index.js",
+			"use": "@now/node-server",
+			"config": {
+				"maxLambdaSize": "45mb"
+			}
+		}, {
+			"src": "/public/**/*",
+			"use": "@now/static"
+		}
+	],
+	"routes": [
+		{
+			"src": "/dash.css",
+			"dest": "/public/dash.css"
+		},
+		{
+			"src": "/login.css",
+			"dest": "/public/login.css"
+		},
+		{
+			"src": "/dash.js",
+			"dest": "/public/dash.js"
+		},
+		{
+			"src": "/google.svg",
+			"dest": "/public/google.svg"
+		},
+		{
+			"src": "/logo.png",
+			"dest": "/public/logo.png"
+		},
+		{
+			"src": "/(.*)",
+			"dest": "index.js"
+		}
+	]
+}

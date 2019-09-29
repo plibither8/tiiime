@@ -1,0 +1,148 @@
+doctype html
+
+html
+
+	head
+		include ./head.pug
+		link(rel="stylesheet" href="/dash.css")
+
+	body
+		header
+			h1 <img src="/logo.png"> <span>Tiii</span>me
+			p Welcome back, !{details.name.split(' ')[0]}
+			a(href="/logout") Logout
+
+		.wrapper.flex
+			section.proposals
+				h1 Modifications
+				ul
+
+			section.timetable
+				include ./timetable.html
+
+		button.add-button(onclick="openModal('addchange')") + Add event
+
+		#addchange.modal
+			.modal-background
+			.modal-card
+				form(method="POST" action="/action-add")
+					header.modal-card-head
+						p.modal-card-title Add or Propose a Change
+						button.delete(aria-label="close" onclick="function2()")
+					section.modal-card-body
+						.field
+							label.label Event Title
+							.control
+								input.input(type="text" name="name" placeholder="Event Title")
+						.field
+							label.label Day of Week
+							.select
+								select(name="day_of_week")
+									option(value="0") Monday
+									option(value="1") Tuesday
+									option(value="2") Wednesday
+									option(value="3") Thursday
+									option(value="4") Friday
+									option(value="5") Saturday
+									option(value="6") Sunday
+						.field
+							label.label Start Time
+							.control
+								input.input(type="text" name="start_time" placeholder="Start Time")
+						.field
+							label.label End Time
+							.control
+								input.input(type="text" name="end_time" placeholder="End Time")
+						.field
+							.control
+								label.label Scope
+								label.radio
+									input(type="radio" name="scope" value="section")
+									| 							Section
+								label.radio
+									input(type="radio" name="scope" value="group")
+									| 							Group
+					footer.modal-card-foot
+						input.button.is-success(type="submit" name="add" value="Add")
+						input.button.is-success(type="submit" name="add-propose" value="Add and Propose")
+						button.button(type="button" onclick="closeModal('addchange')") Cancel
+
+		#editmodal.modal
+			.modal-background
+			.modal-card
+				form(method="POST" action="/action-edit")
+					header.modal-card-head
+						p.modal-card-title Edit
+						button.delete(aria-label="close" onclick="function2()")
+					section.modal-card-body
+						.field
+							label.label Event Title
+							.control
+								input.input.disabled(type="text" name="name" placeholder="Event Title" readonly="readonly")
+						.field
+							label.label Day of Week
+							.select
+								select(name="day_of_week_" disabled)
+									option(value="0") Monday
+									option(value="1") Tuesday
+									option(value="2") Wednesday
+									option(value="3") Thursday
+									option(value="4") Friday
+									option(value="5") Saturday
+									option(value="6") Sunday
+						input(type="hidden" name="day_of_week")
+						.field
+							label.label Start Time
+							.control
+								input.input(type="text" name="start_time" placeholder="Start Time")
+						.field
+							label.label End Time
+							.control
+								input.input(type="text" name="end_time" placeholder="End Time")
+						.field
+							.control
+								label.label Scope
+								label.radio
+									input(type="radio" name="scope" value="section")
+									|							Section
+								label.radio
+									input(type="radio" name="scope" value="group")
+									|							Group
+					footer.modal-card-foot
+						input.button.is-success(type="submit" name="edit" value="Edit")
+						input.button.is-success(type="submit" name="edit-propose" value="Edit and Propose")
+						input.button.is-danger(type="submit" name="delete" value="Delete")
+						button.button(type="button" onclick="closeModal('editmodal')") Cancel
+
+		- if (getMoreDetails)
+			#detailsmodal.modal.is-active
+				.modal-background
+				.modal-card
+					form(method="POST" action="/more-details")
+						header.modal-card-head
+							p.modal-card-title Additional Details
+							button.delete(aria-label="close" onclick="function2()")
+						section.modal-card-body
+							.field
+								label.label Year
+								.control
+									input.input(type="number" name="year" placeholder="Year of graduation")
+							.field
+								label.label Semester
+								.control
+									input.input(type="number" name="semester" placeholder="Semeseter")
+							.field
+								label.label Section
+								.control
+									input.input(type="text" name="section" placeholder="Section")
+							.field
+								label.label Group
+								.control
+									input.input(type="text" name="group" placeholder="Group")
+						footer.modal-card-foot
+							input.button.is-success(type="submit" name="submit" value="Submit")
+							button.button(type="button" onclick="closeModal('addchange')") Cancel
+
+		script.
+			const events = !{JSON.stringify(details.events)}
+		script(src="/dash.js" defer)

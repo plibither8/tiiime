@@ -1,0 +1,17 @@
+doctype html
+
+html
+
+	head
+		include ./head.pug
+		link(rel="stylesheet" href="/login.css")
+
+	body
+		section.header.flex
+			h1 <img src="/logo.png"> <span>Tiii</span>me
+			p Your personal, crowd-sourced timetable
+			a(href='/login') <img src="/google.svg"> Login with your IIIT mail
+			- if (email_error)
+				p.error Please use your IIITD email ID
+
+		include ./waves.html

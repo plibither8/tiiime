@@ -1,0 +1,100 @@
+html, body, :root {
+	min-height: 100vh;
+	padding: 0;
+	margin: 0;
+	width: 100vw;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	height: 60px;
+	background: #dbeaff;
+	align-items: center;
+	padding: 0 20px;
+	position: fixed;
+	width: 100vw;
+	z-index: 2;
+}
+
+header h1 {
+	font-size: 30px;
+	display: flex;
+}
+
+header h1 img {
+	height: 45px;
+	margin-right: 10px;
+}
+
+header h1 span {
+	color: #475786;
+}
+
+header p {
+	font-family: 'Maven Pro';
+	font-size: 30px;
+}
+
+.wrapper {
+	flex: 1;
+	margin-top: 60px;
+	justify-content: space-around !important;
+}
+
+.flex {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.event {
+	cursor: pointer;
+	box-shadow: 0 0 5px #ddd;
+	border-radius: 5px;
+	transition: 0.1s all ease-in-out;
+}
+
+.event:hover {
+	box-shadow: 0 0 10px #ddd;
+	transform: scale(1.1);
+}
+
+button.add-button {
+	position: fixed;
+	z-index: 3;
+	bottom: 0;
+	left: 0;
+	padding: 20px;
+	font-size: 25px;
+	background: none;
+	border: none;
+	color: #475786;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+section.proposals {
+	height: 100vh;
+	width: 20vw;
+}
+
+section.proposals h1 {
+	padding: 20px 0;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+	border-bottom: 1px solid;
+}
+
+.disabled {
+	background: #ccc;
+}
+.disabled:hover {
+	cursor: not-allowed;
+}
